@@ -198,6 +198,8 @@ This roadmap reflects current architecture decisions, recent development activit
 
 ![Proxmox SDN Fabric](https://github.com/Saguaros-CyberHub/Saguaros-CyberHub/blob/97c90549d6e269e96fab546df7b03c37780c07c6/resources/images/ProxmoxSDN-Fabric-v1.0.png)
 
+### SDN Design
+
 ![Proxmox SDN Design](https://github.com/Saguaros-CyberHub/Saguaros-CyberHub/blob/main/resources/images/ProxmoxSDN-Diagram-v1.0.png)
 
 ## Infrastructure and Automation
